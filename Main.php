@@ -13,6 +13,6 @@ switch ($favcolor) {
         break;
     default:
         echo "Your favorite color is neither red, blue, nor green!";
-        echo "maldita sea maldita cosa";
+        echo "maldita sea maldita cosa, estamos de coña";
 }
 ?>
