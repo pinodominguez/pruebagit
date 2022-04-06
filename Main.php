@@ -10,10 +10,12 @@ switch ($favcolor) {
         break;
     case "green":
         echo "Your favorite color is green!";
+        echo "prueba Merge";
         break;
     default:
         echo "Your favorite color is neither red, blue, nor green!";
         echo "maldita sea maldita cosa, estamos de coña";
         echo "vale, va funcionado";
+
 }
 ?>
